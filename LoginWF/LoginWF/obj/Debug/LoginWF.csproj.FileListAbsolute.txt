@@ -1,0 +1,3 @@
+C:\Users\ASUS\source\repos\LoginWinform\LoginWF\LoginWF\obj\Debug\LoginWF.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\LoginWinform\LoginWF\LoginWF\obj\Debug\LoginWF.FormLogin.resources
+C:\Users\ASUS\source\repos\LoginWinform\LoginWF\LoginWF\obj\Debug\LoginWF.csproj.GenerateResource.cache
